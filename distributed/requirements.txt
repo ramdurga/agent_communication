@@ -1,0 +1,18 @@
+# Distributed Multi-Agent System Requirements
+
+# Core
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-ollama>=0.1.0
+
+# Redis-based distributed state
+redis>=5.0.0
+
+# HTTP-based agents
+fastapi>=0.100.0
+uvicorn>=0.23.0
+httpx>=0.24.0
+pydantic>=2.0.0
+
+# Utilities
+requests>=2.31.0
