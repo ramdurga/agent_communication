@@ -18,6 +18,7 @@ Key Components of an Agent:
 3. Memory - State that persists across interactions
 4. Prompt/Instructions - Define the agent's behavior and goals
 
+
 This tutorial series covers:
 - Part 1: Introduction & Basic Agent (this file)
 - Part 2: Agent with Tools
